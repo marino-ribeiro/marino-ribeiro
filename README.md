@@ -35,3 +35,10 @@ Meu perfil do LinkedIn
 <a href="https://www.credly.com/badges/130956b1-4d09-4bdf-a160-62ec5446b90a/public_url">
   <img src="https://images.credly.com/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png" alt="Badge Credly" width="150">
 </a>
+
+<br>
+<br>
+
+<a href="https://www.dio.me/certificate/VO9QBBMQ/share">
+  <img src="https://hermes.dio.me/certificates/cover/VO9QBBMQ.jpg" alt="Badge Credly" width="150">
+</a>
